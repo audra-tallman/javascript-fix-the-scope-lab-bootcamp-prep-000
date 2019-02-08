@@ -11,7 +11,7 @@ function yourAnimal() {
 
 function add2() {
   const two = 2
-  var n = Math.floor(Math.random() * 1000)
+  var n = 5
     return n + two
 }
 
