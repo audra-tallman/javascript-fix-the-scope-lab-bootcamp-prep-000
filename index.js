@@ -8,7 +8,7 @@ function yourAnimal() {
   var animal = 'cat'
   return animal
 }
-a = Math.floor(Math.random() * 1000);
+n = Math.floor(Math.random() * 1000);
 
 function add2(n) {
   const two = 2
