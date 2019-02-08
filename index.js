@@ -10,8 +10,7 @@ function yourAnimal() {
 }
 
 function add2() {
-  const two = 2
-  var n = 5
+  var two = 2
     return n + two
 }
 
@@ -20,5 +19,6 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
-console.log ("funkyFunction")
+var theFunk = funkyFunction
+
 
