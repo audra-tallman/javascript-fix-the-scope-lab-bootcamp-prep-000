@@ -8,10 +8,10 @@ function yourAnimal() {
   var animal = 'cat'
   return animal
 }
-var n = Math.floor(Math.random() * 1000);
 
 function add2() {
   const two = 2
+  var n = Math.floor(Math.random() * 1000)
     return n + two
 }
 
